@@ -1,0 +1,16 @@
+{
+  "name": "32backendlearning",
+  "version": "1.0.0",
+  "description": "Backend Learning with a Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "Javascript",
+    "Node"
+  ],
+  "author": "Suraj Yadav",
+  "license": "ISC"
+}
